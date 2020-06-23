@@ -2,3 +2,5 @@
 def hello():
     return 'hello world'
 a = 1
+def register():
+    return 'register info'
