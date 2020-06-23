@@ -13,3 +13,5 @@ def login():
 
 def index():
     return 'index info'
+
+c = 3
