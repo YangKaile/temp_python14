@@ -10,3 +10,6 @@ b = 2
 
 def login():
     return 'login info'
+
+def index():
+    return 'index info'
