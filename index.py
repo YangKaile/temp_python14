@@ -7,3 +7,6 @@ def register():
     return 'register info'
 
 b = 2
+
+def login():
+    return 'login info'
